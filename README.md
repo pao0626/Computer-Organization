@@ -60,7 +60,7 @@ Implemented three Cache Replacement Policies.
 
 The workflow of the data cache simulation in Spike is highlighted as follows.
 <br>
-![workflow](hw3/workflow.png)
+<img src="Hw3/workflow.png" alt="workflow" width="550" >
 <br>
 Develop own cache replacement policies SELF.
 
