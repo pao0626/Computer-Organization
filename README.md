@@ -64,7 +64,7 @@ The workflow of the data cache simulation in Spike is highlighted as follows.
 <br>
 Develop own cache replacement policies SELF.
 
-###How to test
+### How to test
 1. `make score`runs out the **config** file results
 2. `./bruteforce.sh` runs all possible solution combinations (set/way/blocksize). You need to change the policy in the program according to the situation.
 3. The following three commands can be used to replace 'make score' and print out the results in detail for debugging.
